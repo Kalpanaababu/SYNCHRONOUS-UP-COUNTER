@@ -40,7 +40,7 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 **PROGRAM**
 
-
+~~~
 module exp11(out,clk,rstn);
 input clk,rstn;
 output reg [3:0]out;
@@ -52,6 +52,7 @@ begin
      out <= out+1;
 end
 endmodule
+~~~
 
 Developed by : PRIYANKA R
 RegisterNumber : 212223220081
