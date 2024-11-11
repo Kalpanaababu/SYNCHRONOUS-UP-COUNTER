@@ -66,4 +66,4 @@ RegisterNumber : 212223220081
 ![DE TRUTH TABLE UP COUNTER](https://github.com/user-attachments/assets/0f8e6f83-7777-41eb-bfe2-56f2579e84e3)
 
 **RESULTS**
- Thus the program executed successfully.
+ Thus the program was executed successfully.
